@@ -1,9 +1,15 @@
 <?php
 
-$dbhost="localhost:8889";
+// $dbhost="localhost:8889";
 
-$dbuser = "root";
-$dbpass="root";
+// $dbuser = "root";
+// $dbpass="root";
+// $dbname="flowers";
+
+$dbhost="137.184.82.24";
+
+$dbuser = "myadmin";
+$dbpass="MySQL@admin!12345";
 $dbname="flowers";
 
 // $(variable) vs define(constant)
