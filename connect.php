@@ -6,11 +6,22 @@
 // $dbpass="root";
 // $dbname="flowers";
 
-$dbhost="137.184.82.24";
 
-$dbuser = "myadmin";
-$dbpass="MySQL@admin!12345";
-$dbname="flowers";
+// mysql://b98de5d0136102:578b06a2@us-cdbr-east-06.cleardb.net/heroku_3459793d5fc5bfe?reconnect=true
+
+$dbhost="us-cdbr-east-06.cleardb.net";
+
+$dbuser = "b98de5d0136102";
+$dbpass="578b06a2";
+$dbname="heroku_3459793d5fc5bfe";
+
+
+
+// $dbhost="137.184.82.24";
+
+// $dbuser = "myadmin";
+// $dbpass="MySQL@admin!12345";
+// $dbname="flowers";
 
 // $(variable) vs define(constant)
 // you can't change the name of variable for constant 
