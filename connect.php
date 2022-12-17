@@ -1,19 +1,19 @@
 <?php
 
-// $dbhost="localhost:8889";
+$dbhost="localhost:8889";
 
-// $dbuser = "root";
-// $dbpass="root";
-// $dbname="flowers";
+$dbuser = "root";
+$dbpass="root";
+$dbname="flowers";
 
 
 // mysql://b98de5d0136102:578b06a2@us-cdbr-east-06.cleardb.net/heroku_3459793d5fc5bfe?reconnect=true
 
-$dbhost="us-cdbr-east-06.cleardb.net";
+// $dbhost="us-cdbr-east-06.cleardb.net";
 
-$dbuser = "b98de5d0136102";
-$dbpass="578b06a2";
-$dbname="heroku_3459793d5fc5bfe";
+// $dbuser = "b98de5d0136102";
+// $dbpass="578b06a2";
+// $dbname="heroku_3459793d5fc5bfe";
 
 
 
@@ -26,7 +26,7 @@ $dbname="heroku_3459793d5fc5bfe";
 // $(variable) vs define(constant)
 // you can't change the name of variable for constant 
 
-// constant variable 
+// constant variable;
 // define("DBHOST","localhost:8889");
 // define("DBUSER","root");
 // define("DBPASS","root");
